@@ -1,1 +1,1 @@
-# Real_Time_DB-People_Count
+Real Time People Monitoring BigData Lambda Architecture
